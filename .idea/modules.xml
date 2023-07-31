@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AmigosCode - Excercises.iml" filepath="$PROJECT_DIR$/.idea/AmigosCode - Excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a1/a1.iml" filepath="$PROJECT_DIR$/a1/a1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a2_conditionals/a2_conditionals.iml" filepath="$PROJECT_DIR$/a2_conditionals/a2_conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a3_arrays/a3_arrays.iml" filepath="$PROJECT_DIR$/a3_arrays/a3_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a4_methods/a4_methods.iml" filepath="$PROJECT_DIR$/a4_methods/a4_methods.iml" />
+    </modules>
+  </component>
+</project>

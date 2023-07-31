@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="a1" />
+        <module name="a4_methods" />
+        <module name="a3_arrays" />
+        <module name="a2_conditionals" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a1" target="17" />
+      <module name="a2_conditionals" target="17" />
+      <module name="a3_arrays" target="17" />
+      <module name="a4_methods" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
