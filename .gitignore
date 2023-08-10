@@ -1,0 +1,5 @@
+# Project exclude paths
+/a1/target/
+/a2_conditionals/target/
+/a3_arrays/target/
+/a4_methods/target/
